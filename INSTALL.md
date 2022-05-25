@@ -13,5 +13,8 @@ DigitalOcean is our VPS of choice. First, we need to create an account.
   - Choose plan (Basic, Regular with SSD, $5/mo);
   - Choose a datacenter region (the is the closest to your location);
   - Authentication.
-3. The droplet has been created.
+3. The droplet has been created. You can view the IP address on your project's main page.
 
+## Log in your newly created VPS service
+1. Open Terminal.
+2. 
