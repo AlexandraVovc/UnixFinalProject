@@ -17,4 +17,4 @@ DigitalOcean is our VPS of choice. First, we need to create an account.
 
 ## Log in your newly created VPS service
 1. Open Terminal.
-2. 
+2. Enter the line $ sudo ssh root@
