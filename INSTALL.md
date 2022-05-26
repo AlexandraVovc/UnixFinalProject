@@ -21,3 +21,9 @@ DigitalOcean is our VPS of choice. First, we need to create an account.
 3. Enter the line ````$ sudo ssh root@192.168.0.1````, where instead of ````192.168.0.1```` you input the IP address of your newly created droplet;
 4. Now you are in!
 
+## Create SSH key
+SSH key are needed for securing our VPS server.
+1. 
+
+## Set up web server
+1. In terminal, insert the
