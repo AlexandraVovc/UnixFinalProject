@@ -22,8 +22,11 @@ DigitalOcean is our VPS of choice. First, we need to create an account.
 4. Now you are in!
 
 ## Create SSH key
-SSH key are needed for securing our VPS server.
-1. 
+SSH key are needed for a secure access to our VPS server.
+1. In Terminal enter ````$ ssh-keygen````. This will generate a SSH key;
+2. The key will be automatically saved in '/home/user/.ssh/id_rsa' directory. It may be changed;
+3. Next, enter  ````$ ssh-keygen````
+
 
 ## Set up web server
 1. In terminal, insert the
