@@ -30,4 +30,6 @@ SSH key are needed for a secure access to our VPS server.
 
 ## Set up web server
 1. In terminal, enter to your VPS server with command ````$ sudo ssh root@192.168.0.1````;
-2. 
+2. Run the command ````$ sudo apt nginx install````. This will install Nginx on your server;
+3. Run the command ````$ sudo systemctl enable nginx```` and ````$ sudo systemctl start nginx````. Now you will be able to see your web-server running.
+4. You can check the status by running the command ````$ sudo systemctl status nginx````.
