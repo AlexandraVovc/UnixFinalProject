@@ -25,7 +25,7 @@ DigitalOcean is our VPS of choice. First, we need to create an account.
 SSH key are needed for a secure access to our VPS server.
 1. In Terminal enter ````$ ssh-keygen````. This will generate a SSH key;
 2. The key will be automatically saved in '/home/user/.ssh/id_rsa' directory. It may be changed;
-3. Next, enter  ````$ ssh-copy-id -i /home/user/.ssh/id_rsa.pub root@192.168.0.1```` where ````/home/user/.ssh/id_rsa.pub```` is the file your SSH key is saved and ````192.168.0.1```` is your VPS' IP address;
+3. Next, enter  ````$ ssh-copy-id root@192.168.0.1```` where ````192.168.0.1```` is your VPS' IP address;
 4. Now try enter to your VPS. Now you will be able to enter root without password.
 
 ## Set up web server
