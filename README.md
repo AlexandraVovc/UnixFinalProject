@@ -12,4 +12,4 @@ I had two options for my VPS. One is DigitalOcean and the another is OVHcloud. U
 Once again I was faced by two choices: either Apache Web Server or Nginx. Apache Web Server has more features. However Nginx is faster and has a better performance. Therefore I chose Nginx for a simple and efficent Web Server.
 
 ## License
-The project is licensed under CC.
+The project is licensed under Apache.
